@@ -88,7 +88,7 @@ DATABASES = {
         'NAME': BASE_DIR / 'name',
         'USER': 'user',
         'PASSWORD': '',
-        'HOST': 'host',
+        'HOST': 'localhost',
         'PORT': '',
     }
 }
