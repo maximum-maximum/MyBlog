@@ -30,4 +30,4 @@ Werkzeug==1.0.1
 whitenoise==5.2.0
 # zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
 zipp==3.4.0
-psycopg2==2.7.6.1
+psycopg2==2.8.5
