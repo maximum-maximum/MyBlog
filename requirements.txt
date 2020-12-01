@@ -14,7 +14,7 @@ Jinja2==2.11.2
 MarkupSafe @ file:///opt/concourse/worker/volumes/live/cb778296-98db-45ad-411e-6f726e102dc3/volume/markupsafe_1594371638608/work
 mccabe==0.6.1
 Pillow==8.0.1
-psycopg2 @ file:///opt/concourse/worker/volumes/live/c8a4b965-959f-4e6c-7792-4aa881d63c8d/volume/psycopg2_1594305121341/work
+# psycopg2 @ file:///opt/concourse/worker/volumes/live/c8a4b965-959f-4e6c-7792-4aa881d63c8d/volume/psycopg2_1594305121341/work
 pycodestyle==2.6.0
 pyflakes==2.2.0
 pytz==2020.1
@@ -23,4 +23,4 @@ toml==0.10.2
 Werkzeug==1.0.1
 whitenoise==5.2.0
 zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
-# psycopg2==2.7.6.1
+psycopg2==2.7.6.1
